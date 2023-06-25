@@ -5,10 +5,10 @@ The quiz application developed using Java Swing is a user-friendly program that 
 ### Enter username
 ![Alt text](image-1.png)
 ## Rules Button
-Takes user to the rules page.
+Takes user to the rules page.<br></br>
 ![Alt text](image-2.png)
 ## Continue button 
-Takes user to the next window.
+Takes user to the next window.<br></br>
 ![Alt text](image-3.png)
 ## Rules Window
 Greets the user and showes them the rules.
