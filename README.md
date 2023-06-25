@@ -17,6 +17,7 @@ Greets the user and showes them the rules.
 Takes the user mack to the Login window.
 ### Start Button
 Takes the user to Quiz window.
+
 ![Alt text](image-5.png)
 ## Quiz Window
 1. Quiz questions
