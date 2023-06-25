@@ -1,1 +1,2 @@
 # QuizzBuzz
+A quiz application.
