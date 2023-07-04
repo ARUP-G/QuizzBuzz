@@ -46,6 +46,7 @@ public class Login extends JFrame implements ActionListener {
         Rules.addActionListener(this);
         add(Rules);
 
+
         Continue =new JButton("Continue ");
         Continue.setBounds(1050,400,90,30);
         Continue.setForeground(Color.white);

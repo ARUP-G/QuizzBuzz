@@ -29,7 +29,7 @@ Takes the user to Quiz window.
 4. Quit button (Takes back to Login Window).
 ![Alt text](image-6.png)
 ### Submit Button
-Availe at the 9'th question.
+Available at the 9'th question.
 ![Alt text](image-7.png)
 ## Score Window
 1. Final score of the user is presented
